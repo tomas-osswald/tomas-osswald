@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomas-osswald
-- 🌱 I’m currently learning Java and Javascript (React)
+- 🌱 I’m currently learning Java and Javascript
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/tomas-osswald/)
 
 <!---
